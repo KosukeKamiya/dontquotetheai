@@ -43,6 +43,12 @@
       "file": "it.html"
     },
     {
+      "code": "es",
+      "hreflang": "es",
+      "label": "ES — Español",
+      "file": "es.html"
+    },
+    {
       "code": "fr",
       "hreflang": "fr",
       "label": "FR — Français",
