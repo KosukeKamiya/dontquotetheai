@@ -5,8 +5,8 @@
   <ellipse cx="120" cy="565" rx="300" ry="200" fill="#5a3214" opacity="0.05"/>
 
   <text x="600" y="230" text-anchor="middle" font-family="Hina Mincho" font-size="100" fill="#15120e"><tspan fill="#a82820">AI</tspan>が書いたものを</text>
-  <text x="600" y="340" text-anchor="middle" font-family="Hina Mincho" font-size="100" fill="#15120e">内容を確認せずに</text>
-  <text x="600" y="450" text-anchor="middle" font-family="Hina Mincho" font-size="100" fill="#15120e">コピペししないでください。</text>
+  <text x="600" y="340" text-anchor="middle" font-family="Hina Mincho" font-size="100" fill="#15120e">中身を読まずに</text>
+  <text x="600" y="450" text-anchor="middle" font-family="Hina Mincho" font-size="100" fill="#15120e">コピペしましたね。</text>
 
   <g transform="translate(740,540) rotate(-1)">
     <rect x="4" y="4" width="380" height="60" fill="#15120e"/>
